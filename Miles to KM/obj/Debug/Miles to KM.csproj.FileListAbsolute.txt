@@ -1,0 +1,6 @@
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\bin\Debug\Miles to KM.exe.config
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\bin\Debug\Miles to KM.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\bin\Debug\Miles to KM.pdb
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\obj\Debug\Miles to KM.csprojResolveAssemblyReference.cache
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\obj\Debug\Miles to KM.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Miles to KM\obj\Debug\Miles to KM.pdb

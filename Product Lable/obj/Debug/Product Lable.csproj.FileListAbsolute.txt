@@ -1,0 +1,5 @@
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Product Lable\bin\Debug\Product Lable.exe.config
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Product Lable\bin\Debug\Product Lable.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Product Lable\bin\Debug\Product Lable.pdb
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Product Lable\obj\Debug\Product Lable.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Product Lable\obj\Debug\Product Lable.pdb
