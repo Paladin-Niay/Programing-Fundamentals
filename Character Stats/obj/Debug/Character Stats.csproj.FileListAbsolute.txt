@@ -1,0 +1,5 @@
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Character Stats\bin\Debug\Character Stats.exe.config
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Character Stats\bin\Debug\Character Stats.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Character Stats\bin\Debug\Character Stats.pdb
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Character Stats\obj\Debug\Character Stats.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Character Stats\obj\Debug\Character Stats.pdb

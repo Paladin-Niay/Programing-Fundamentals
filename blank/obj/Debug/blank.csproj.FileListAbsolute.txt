@@ -1,0 +1,6 @@
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\bin\Debug\blank.exe.config
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\bin\Debug\blank.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\bin\Debug\blank.pdb
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\obj\Debug\blank.csprojResolveAssemblyReference.cache
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\obj\Debug\blank.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\blank\obj\Debug\blank.pdb

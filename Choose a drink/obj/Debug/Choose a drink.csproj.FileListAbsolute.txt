@@ -1,0 +1,6 @@
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\bin\Debug\Choose a drink.exe.config
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\bin\Debug\Choose a drink.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\bin\Debug\Choose a drink.pdb
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\obj\Debug\Choose a drink.csprojResolveAssemblyReference.cache
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\obj\Debug\Choose a drink.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Choose a drink\obj\Debug\Choose a drink.pdb
