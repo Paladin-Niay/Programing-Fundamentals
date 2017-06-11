@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spliting", "spliting\spliti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spliting V2.0", "spliting V2.0\spliting V2.0.csproj", "{FC069F7F-5782-46FD-9D84-2FD8580FC1AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exchange positions", "exchange positions\exchange positions.csproj", "{D9E44E60-87F0-4D56-A66B-A142F86739D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{FC069F7F-5782-46FD-9D84-2FD8580FC1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC069F7F-5782-46FD-9D84-2FD8580FC1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC069F7F-5782-46FD-9D84-2FD8580FC1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E44E60-87F0-4D56-A66B-A142F86739D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E44E60-87F0-4D56-A66B-A142F86739D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E44E60-87F0-4D56-A66B-A142F86739D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E44E60-87F0-4D56-A66B-A142F86739D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,5 +134,6 @@ Global
 		{835C10F0-DC57-4EA2-BA6D-3BC6A24CED62} = {A1B4CF9A-7585-49DF-81EB-BFC40EE6255D}
 		{0BE569C8-F5FD-4F20-922B-1974C8E96915} = {A1B4CF9A-7585-49DF-81EB-BFC40EE6255D}
 		{FC069F7F-5782-46FD-9D84-2FD8580FC1AD} = {A1B4CF9A-7585-49DF-81EB-BFC40EE6255D}
+		{D9E44E60-87F0-4D56-A66B-A142F86739D3} = {A1B4CF9A-7585-49DF-81EB-BFC40EE6255D}
 	EndGlobalSection
 EndGlobal

@@ -4,3 +4,6 @@ c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Deb
 c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Debit Card Number\obj\Debug\Debit Card Number.csprojResolveAssemblyReference.cache
 c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Debit Card Number\obj\Debug\Debit Card Number.exe
 c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Debit Card Number\obj\Debug\Debit Card Number.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Programing-Fundamentals\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Programing-Fundamentals\Debit Card Number\obj\Debug\Debit Card Number.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Programing-Fundamentals\Debit Card Number\obj\Debug\Debit Card Number.pdb

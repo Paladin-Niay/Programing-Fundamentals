@@ -18,7 +18,7 @@ namespace num_in_revers
                 arr[i] = int.Parse(Console.ReadLine());
 
             }
-            Console.WriteLine("These are the numbers in reverse:");
+            //Console.WriteLine("These are the numbers in reverse:");
             for (int i = n - 1; i >= 0; i--)
             {
                 Console.WriteLine(arr[i]);
