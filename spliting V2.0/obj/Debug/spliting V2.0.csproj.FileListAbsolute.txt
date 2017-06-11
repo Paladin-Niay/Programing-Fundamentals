@@ -1,0 +1,6 @@
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\bin\Debug\spliting V2.0.exe.config
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\bin\Debug\spliting V2.0.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\bin\Debug\spliting V2.0.pdb
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\obj\Debug\spliting V2.0.csprojResolveAssemblyReference.cache
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\obj\Debug\spliting V2.0.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\spliting V2.0\obj\Debug\spliting V2.0.pdb

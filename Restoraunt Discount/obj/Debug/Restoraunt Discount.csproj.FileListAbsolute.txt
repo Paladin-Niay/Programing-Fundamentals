@@ -1,0 +1,6 @@
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\bin\Debug\Restoraunt Discount.exe.config
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\bin\Debug\Restoraunt Discount.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\bin\Debug\Restoraunt Discount.pdb
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\obj\Debug\Restoraunt Discount.csprojResolveAssemblyReference.cache
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\obj\Debug\Restoraunt Discount.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Restoraunt Discount\obj\Debug\Restoraunt Discount.pdb

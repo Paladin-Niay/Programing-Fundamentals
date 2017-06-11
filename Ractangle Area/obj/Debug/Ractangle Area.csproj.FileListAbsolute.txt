@@ -1,0 +1,5 @@
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Ractangle Area\bin\Debug\Ractangle Area.exe.config
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Ractangle Area\bin\Debug\Ractangle Area.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Ractangle Area\bin\Debug\Ractangle Area.pdb
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Ractangle Area\obj\Debug\Ractangle Area.exe
+c:\users\korn\documents\visual studio 2015\Projects\Programming Fundamentals\Ractangle Area\obj\Debug\Ractangle Area.pdb
